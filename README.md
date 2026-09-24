@@ -1,4 +1,4 @@
-# Assignment 6
+# Huffman Coding
 This program encodes and decodes the files using huffman encoder and decoder. Files and compressed in encode and decompressed in decode in a lossless manner. Entropy will measure the amount of entropy in a file.
 ## Build
 
